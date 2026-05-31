@@ -1,0 +1,6 @@
+pandas
+pyarrow
+kafka-python
+streamlit
+plotly
+requests

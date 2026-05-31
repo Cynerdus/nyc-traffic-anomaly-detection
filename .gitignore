@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large raw datasets
+data/*.parquet
+
+# Kafka logs
+kafka-data/
+zookeeper-data/
